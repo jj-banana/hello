@@ -1,1 +1,1 @@
-This is the Hello World example from the git tutorial.
+Ты больше никогда не увидишь ЗДЕСЬ НОРМАЛЬНОГО ТЕКСТА
